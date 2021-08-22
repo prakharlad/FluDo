@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">875690211641-dd7hic0lnmukvoosjo90ob1akqp1je3b.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fludo-4d88c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">875690211641</string>
+    <string name="google_api_key" translatable="false">AIzaSyCm2rqgs2PGK4kOfFFVkq2MFf6qEp8qa1A</string>
+    <string name="google_app_id" translatable="false">1:875690211641:android:09fb77e9a93c115af590e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCm2rqgs2PGK4kOfFFVkq2MFf6qEp8qa1A</string>
+    <string name="google_storage_bucket" translatable="false">fludo-4d88c.appspot.com</string>
+    <string name="project_id" translatable="false">fludo-4d88c</string>
+</resources>

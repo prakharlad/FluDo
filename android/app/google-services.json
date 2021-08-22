@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875690211641",
+    "firebase_url": "https://fludo-4d88c.firebaseio.com",
+    "project_id": "fludo-4d88c",
+    "storage_bucket": "fludo-4d88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875690211641:android:09fb77e9a93c115af590e8",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875690211641-dd7hic0lnmukvoosjo90ob1akqp1je3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2rqgs2PGK4kOfFFVkq2MFf6qEp8qa1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875690211641-dd7hic0lnmukvoosjo90ob1akqp1je3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
